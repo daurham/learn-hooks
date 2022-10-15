@@ -30,4 +30,4 @@ const UseMemoApp = () => {
   )
 }
 
-export default UseMemoApp
+export default UseMemoApp;

@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 const UseStateApp = () => {
-  const [data, setData] = useState(10);
+  const data = 10;
 
   return (
     <div>

@@ -1,4 +1,3 @@
-import UseMemoApp from "./UseMemo";
-const UseMemo = UseMemoApp;
+import UseMemo from "./UseMemo";
 
 export default UseMemo;

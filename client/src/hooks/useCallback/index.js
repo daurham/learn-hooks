@@ -1,4 +1,3 @@
-import UseCallbackApp from "./UseCallback";
-const UseCallback = UseCallbackApp;
+import UseCallback from "./UseCallback";
 
 export default UseCallback;
